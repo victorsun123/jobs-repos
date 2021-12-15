@@ -1,3 +1,3 @@
 def print_hi_return_one():
-  println("hi")
+  print("hi")
   return 1
