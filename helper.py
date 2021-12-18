@@ -1,3 +1,3 @@
 def print_hi_return_one():
   print("hi")
-  return 1
+  return 2
