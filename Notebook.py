@@ -1,10 +1,10 @@
 # Databricks notebook source
-from helper import print_hi_return_one
 import os 
+print(os.getcwd())
 
 # COMMAND ----------
 
-print(os.getcwd())
+from helper import print_hi_return_one
 print_hi_return_one()
 
 # COMMAND ----------
